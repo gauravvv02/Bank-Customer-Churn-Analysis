@@ -48,3 +48,9 @@ The Power BI dashboard contains two pages:
 - Build a churn prediction model
 - Add time-based trend analysis
 - Integrate customer support text analysis
+
+## Dashboard Screenshots
+
+![Overview Dashboard](Dashboard/Overview.png)
+![Diagnostics Dashboard](Dashboard/Diagnostics.png)
+
