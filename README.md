@@ -10,7 +10,7 @@ The insights help banks improve customer retention strategies, reduce revenue lo
 - Cleaned Data: Final_Bank_Customers_Data.csv
 
 ## Tools & Technologies
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy)
 - Power BI
 - Statistical Analysis (Correlation)
 
